@@ -2,7 +2,7 @@
 Ez itt a natux mailer
 Szukseges parancsok a futtatashoz:
     
-	natux-api:
+natux-api:
 	
         -composer update(ha nem jo akk composer i)
 		
@@ -12,11 +12,11 @@ Szukseges parancsok a futtatashoz:
         
 		-php artisan queue:work
     
-	Kell egy masodik terminal a natux-api-hoz
+Kell egy masodik terminal a natux-api-hoz
     
 		-php artisan serve
     
-	natux-web:
+natux-web:
     
 		npm i
     
