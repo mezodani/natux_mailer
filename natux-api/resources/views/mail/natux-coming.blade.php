@@ -1,0 +1,1 @@
+Natux {{$distance}} Km tavol van toled

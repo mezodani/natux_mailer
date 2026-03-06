@@ -1,0 +1,1 @@
+Natux odaert a cimedre..
